@@ -1,5 +1,4 @@
-*.js
-!zxcvbn*.js
+*./dist/zxcvbn.js
 !demo/jquery.js
 !demo/require.js
 !demo/mustache.js
